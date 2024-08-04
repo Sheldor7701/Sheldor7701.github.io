@@ -21,14 +21,14 @@ repository               : "Sheldor7701/Sheldor7701.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "souvik-profile.png"
+  name             : "Souvik Ghosh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "souvik7701@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
