@@ -8,10 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Souvik Ghosh / Souvik's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Souvik Ghosh"
+description              : &description "I am Souvik Ghosh, a motivated and research-oriented CSE undergraduate at BUET with a strong passion for machine
+learning, software development, and problem-solving. My interests lie in exploring innovative approaches to real-world
+challenges through research and leveraging machine learning techniques to build impactful solutions"
 url                      : https://Sheldor7701.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sheldor7701/Sheldor7701.github.io"
@@ -25,8 +27,8 @@ author:
   name             : "Souvik Ghosh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "souvik7701@gmail.com" 
 
